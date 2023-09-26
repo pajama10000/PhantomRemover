@@ -1,4 +1,7 @@
-# noPhantomsPlugin
+# Phantom Remover
+
+## yea i forked it, I just rewrote it into kotlin
+
 This short & simple plugin for Spigot and Bukkit servers prevents Phantoms from spawning.  
 
 Download the .jar: https://github.com/HerrEurobeat/noPhantomsPlugin/releases/latest  
